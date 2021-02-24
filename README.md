@@ -1,4 +1,13 @@
 
+# Robust Inference under Missing Data Condition
+## TODO:
+```diff
+- Full law identifiability (Missingness indicator as labels);
+- Robust Inference (Without labels); 
+```
+
+- [202O-Full Law Identification in Graphical Models of Missing Data: Completeness Results](http://proceedings.mlr.press/v119/nabi20a/nabi20a.pdf)
+
 # Causal_imputation
 Missing data imputation using causal knowledge
 

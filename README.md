@@ -5,8 +5,13 @@
 - Full law identifiability (Missingness indicator as labels);
 - Robust Inference (Without labels); 
 ```
-## Full Law Identifiability
+## Missing Data and Causality
+- [2013-Graphical Models for Inference with Missing Data](https://ftp.cs.ucla.edu/pub/stat_ser/r410.pdf)
+- [2015-Missing Data as a Causal and Probabilistic Problem](https://auai.org/uai2015/proceedings/papers/204.pdf)
+- [2016-Consistent estimation of functions of data missing non-monotonically and not at random](https://papers.nips.cc/paper/2016/hash/7bd28f15a49d5e5848d6ec70e584e625-Abstract.html)
 - [2020-Full Law Identification in Graphical Models of Missing Data: Completeness Results](http://proceedings.mlr.press/v119/nabi20a/nabi20a.pdf)
+
+## Odds Ratio Parameterization
 - [2000-Regression Analysis under Non-Standard Situations: A Pairwise Pseudolikelihood Approach](https://sci-hub.se/https://www.jstor.org/stable/2680620?seq=1#metadata_info_tab_contents)
 - [2003-A note on the prospective analysis of outcome‐dependent samples](https://sci-hub.se/https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/1467-9868.00403)
 - [2004-Nonparametric and Semiparametric Models for Missing Covariates in Parametric Regression](https://sci-hub.se/https://www.jstor.org/stable/27590495?seq=1#metadata_info_tab_contents)

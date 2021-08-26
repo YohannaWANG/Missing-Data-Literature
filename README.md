@@ -3,7 +3,7 @@
 ## Uncategorized
 |Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
 |:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
-| MCAR | [Attention-based Learning For Missing Data Imputation in HoloClean](https://cs.uwaterloo.ca/~ilyas/papers/WuMLSys2020.pdf) | [Link] | - | 
+| MCAR | Richard Wu, Aoqian Zhang, Ihab F. Ilyas, Theodoros Rekatsinas |[Attention-based Learning For Missing Data Imputation in HoloClean](https://cs.uwaterloo.ca/~ilyas/papers/WuMLSys2020.pdf) | [Link] | - | 
 
 
 ## TODO:

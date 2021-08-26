@@ -1,5 +1,11 @@
 
 # Robust Inference under Missing Data Condition
+## Uncategorized
+|Category        |  Author  | Paper        | Pdf with comments  | summary   |  code  |
+|:-------------: |:-------: |:-------------:| :-----------------:|:---------:|:-------:|
+| MCAR | [Attention-based Learning For Missing Data Imputation in HoloClean](https://cs.uwaterloo.ca/~ilyas/papers/WuMLSys2020.pdf) | [Link] | - | 
+
+
 ## TODO:
 ```diff
 - Full law identifiability (Missingness indicator as labels);
